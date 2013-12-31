@@ -10,6 +10,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Implements a Types custom field for YouTube videos and the Types shortcode to access them.
 
 == Description ==
+This plugin is unnecessary as its provides a subset of the functionality of the built-in ‘Embedded Media’ custom field which uses the oEmbed API which is a much better and more reliable way of doing this than what I am doing in this plugin. I apologize for my stupidity. If anyone knows how to delete a plugin from the repository please advise. Magenta Cuda
+
 For the plugin [Types](http://wordpress.org/plugins/types/) this plugin implements a Types custom field for YouTube videos and also the Types shortcode to show the video. The website for this plugin is [here](http://alttypes.wordpress.com/youtube/). This plugin requires Types 1.5.3 and PHP 3.4 or later.
 
 == Installation ==
